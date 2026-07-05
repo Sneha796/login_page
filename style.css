@@ -1,8 +1,7 @@
 *{
   font-family:arial,verdana,spectral;
-  align-items:centre;
-  justify-content:centre;
-  display:block;
+  align-items:center;
+  justify-content:center;
 }
 body{ 
   background-color:pink;
@@ -10,8 +9,8 @@ body{
   justify-content:center;
   align-content:center;
 }
-.mb-3{
-  justify-content:flex-start;
+.container mt-4{
+  justify-content:center;
   flex-grow:5px;
   border-color:black;
   border-radius:25px;
