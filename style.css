@@ -1,5 +1,8 @@
 *{
   font-family:arial,verdana,spectral;
+  align-items:centre;
+  justify-content:centre;
+  display:inline-block;
 }
 body{ 
   background-color:pink;
@@ -15,6 +18,7 @@ div{
   border-color:black;
   border-radius:25px;
   border-style:solid;
+  
 }
 button:hover{
   background-color:green;
