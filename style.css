@@ -2,23 +2,20 @@
   font-family:arial,verdana,spectral;
   align-items:centre;
   justify-content:centre;
-  display:inline-block;
+  display:block;
 }
 body{ 
   background-color:pink;
   color:black;
-}
-div{
   justify-content:center;
   align-content:center;
 }
-#101,#102{
+.mb-3{
   justify-content:flex-start;
   flex-grow:5px;
   border-color:black;
   border-radius:25px;
   border-style:solid;
-  
 }
 button:hover{
   background-color:green;
